@@ -130,7 +130,7 @@ public class CellInfo
 		}
 		catch( Exception pException )
 		{
-			// well... no border specific !
+			// well... no border specific ! 
 		}
 
 		
