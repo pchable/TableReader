@@ -11,6 +11,8 @@ import org.openxmlformats.schemas.wordprocessingml.x2006.main.CTTcPr;
 import org.openxmlformats.schemas.wordprocessingml.x2006.main.STBorder;
 
 
+// Test de connexion avec GitHib
+
 public class CellInfo
 {
 	final static String cAUTO = "auto";
